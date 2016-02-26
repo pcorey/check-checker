@@ -14,7 +14,9 @@ Package.registerBuildPlugin({
   ],
   npmDependencies: {
     "eslint": "2.2.0",
-    "babel-eslint": "5.0.0"
+    "babel-eslint": "5.0.0",
+    "dot-get": "1.0.1",
+    "lodash": "4.5.1"
   }
 });
 
